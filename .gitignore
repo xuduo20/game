@@ -6,6 +6,9 @@ node_modules
 # production
 .idea
 
+#package-lock.json
+package-lock.json
+
 # misc
 .DS_Store
 npm-debug.log
