@@ -1,2 +1,5 @@
 # game
-tetris&amp;&amp;2048
+tetris
+  gulp tetris
+2048
+  gulp two2048
